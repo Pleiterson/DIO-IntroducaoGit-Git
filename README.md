@@ -1,5 +1,7 @@
 Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One. Neste, Introdução ao Git e Controle de Versões, um dos 25 cursos do bootcamp.
 
+Download fo [Git](https://git-scm.com/docs).
+
 ### Principais comandos vistos no curso:
 
 - **git init:** inicializa um repositório dentro de uma estrutura. Cria um repositório Git vazio ou reinicializa um já existente;
@@ -14,5 +16,3 @@ Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One.
 - **git status:** provem informações referentes ao status atual do projeto, se tem ou não arquivo adicionado, se o arquivo foi ou não comitado. Mostra o status da árvore de trabalho;
 - **git log:** devolve um histórico de alterações que o repositório vem sofrendo. Mostra o status do commit, quem realizou, horário, login da alteração do commit. Exibe os registros log do commit;
 - **git branch <<nome_branch>>:** é quando criamos uma nova ramificação, a partir da master. Lista, cria ou excluí ramificações.
-
-Download fo [Git](https://git-scm.com/docs).
