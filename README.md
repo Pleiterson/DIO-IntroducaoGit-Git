@@ -1,6 +1,6 @@
 Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One. Neste, Introdução ao Git e Controle de Versões, um dos 25 cursos do bootcamp.
 
-Download fo [Git](https://git-scm.com/docs).
+Download do [Git](https://git-scm.com/docs).
 
 ### Principais comandos vistos no curso:
 
