@@ -14,9 +14,9 @@
 <!--About session-->
 <h1 align="center">Curso Introdução ao Git e Controle de Versões<br>Digital Innovation One</h1>
 
-Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One. Neste, Introdução ao Git e Controle de Versões, um dos 25 cursos do bootcamp.
+<i>Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One. Neste, Introdução ao Git e Controle de Versões, um dos 25 cursos do bootcamp.<i>
 
-- Download do [Git](https://git-scm.com/docs).
+- [Download](https://git-scm.com/docs)
 
 <h3>🚀 O que foi visto nas aulas</h3>
 
@@ -38,7 +38,6 @@ Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One.
 <h3>📝 Licença</h3>
 
 Este projeto está sob a licença [MIT](./LICENSE).
-
 
 
 <!--Bottom session-->
