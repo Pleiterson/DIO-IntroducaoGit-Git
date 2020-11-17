@@ -14,7 +14,7 @@
 <!--About session-->
 <h1 align="center">Curso Introdução ao Git e Controle de Versões<br>Digital Innovation One</h1>
 
-<i>Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One. Neste, Introdução ao Git e Controle de Versões, um dos 25 cursos do bootcamp.</i>
+<i>Comandos git do Bootcamp Back-end Developer Carrefour da Digital Innovation One. Neste curso, Introdução ao Git e Controle de Versões, que é um dos 25 cursos do bootcamp.</i>
 
 - [Download](https://git-scm.com/docs) git
 
@@ -41,4 +41,4 @@ Este projeto está sob a licença [MIT](./LICENSE).
 
 
 <!--Bottom session-->
-<h4 align=center>Made with by <a href="https://www.linkedin.com/in/pleiterson">Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
